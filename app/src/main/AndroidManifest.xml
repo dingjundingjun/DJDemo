@@ -213,6 +213,14 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.Activity.ButtonActivity"
+            >
+            <intent-filter>
+                <action android:name="com.dingjun.demo.ButtonActivity"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
         <receiver
             android:name="com.example.receiver.FlashReceiver"
             android:process=":remote"

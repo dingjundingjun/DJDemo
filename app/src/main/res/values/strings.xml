@@ -23,6 +23,8 @@
 	<string name="ui_title_scrool_label">标题滚动</string>
 	<string name="ui_list_animation_list">List Grad动画</string>
 	<string name="ui_list_reflash">带刷新的List</string>
+    <string name="ui_list_button_demo">Button</string>
+
 	<string name="connect_interface">一些数据接口</string>
 	<string name="gesture_detector">多手指手势识别</string>
     <string name="system_dialog">系统对话框</string>

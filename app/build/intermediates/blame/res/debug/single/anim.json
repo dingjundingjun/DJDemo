@@ -20,6 +20,10 @@
         "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/power_off5.xml"
     },
     {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/zoom_button_up.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/zoom_button_up.xml"
+    },
+    {
         "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/power_off4.xml",
         "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/power_off4.xml"
     },
@@ -38,5 +42,9 @@
     {
         "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/activity_exit.xml",
         "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/activity_exit.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/zoom_button_down.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/zoom_button_down.xml"
     }
 ]

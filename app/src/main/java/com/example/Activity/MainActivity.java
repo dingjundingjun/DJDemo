@@ -36,6 +36,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.res.Configuration;
+import android.graphics.Color;
 import android.net.NetworkInfo;
 import android.net.NetworkInfo.State;
 import android.net.wifi.WifiManager;
@@ -103,7 +104,6 @@ public class MainActivity extends Activity implements OnChildClickListener,OnSee
 
 	public void init()
     {
-		LinearLayout ll = (LinearLayout)findViewById(R.id.main_view);
     	mChooseDemoList = (ExpandableListView)findViewById(R.id.choose_demo_list);
     	mParentLabel = this.getResources().getStringArray(R.array.parent_text);
     	initParentList(mParentLabel);
@@ -229,7 +229,8 @@ public class MainActivity extends Activity implements OnChildClickListener,OnSee
 				item = (TextView)convertView;
 			}
 			item.setText(mParentList.get(groupPosition).get(childPosition).actionText);
-			item.setTextSize(20);
+			item.setTextSize(35);
+			item.setTextColor(Color.RED);
 			item.setFocusable(false);
 			return item;
 		}

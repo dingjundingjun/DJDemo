@@ -84,8 +84,7 @@
         <activity
             android:name="com.example.Activity.TestCameraActivity"
             android:excludeFromRecents="true"
-            android:label="@string/test_camera_label"
-            android:screenOrientation="portrait" >
+            android:label="@string/test_camera_label" >
             <intent-filter>
                 <action android:name="com.dingjun.demo.TestCamera" />
 
@@ -106,8 +105,7 @@
         </activity>
         <activity
             android:name="com.example.Activity.CameraOpenStopPreviewTest"
-            android:label="@string/camera_open_stop_preview"
-            android:screenOrientation="portrait" >
+            android:label="@string/camera_open_stop_preview" >
             <intent-filter>
                 <action android:name="com.dingjun.demo.CameraOpenStopPreviewTest" />
 
@@ -116,8 +114,7 @@
         </activity>
         <activity
             android:name="com.example.Activity.TitleScroolActivity"
-            android:label="@string/ui_title_scrool_label"
-            android:screenOrientation="portrait" >
+            android:label="@string/ui_title_scrool_label" >
             <intent-filter>
                 <action android:name="com.dingjun.demo.TitleScrool" />
 
@@ -133,8 +130,7 @@
         </activity>
         <activity
             android:name="com.example.Activity.ListDemoActivity"
-            android:label="@string/ui_title_scrool_label"
-            android:screenOrientation="portrait" >
+            android:label="@string/ui_title_scrool_label" >
             <intent-filter>
                 <action android:name="com.dingjun.demo.ListDemoActivity" />
 
@@ -143,8 +139,7 @@
         </activity>
         <activity
             android:name="com.example.Activity.ReflashListViewActivity"
-            android:label="@string/ui_title_scrool_label"
-            android:screenOrientation="portrait" >
+            android:label="@string/ui_title_scrool_label" >
             <intent-filter>
                 <action android:name="com.dingjun.demo.ReflashListViewActivity" />
 
@@ -153,17 +148,14 @@
         </activity>
         <activity
             android:name="com.example.Activity.ConnectInterfaceActivity"
-            android:label="@string/connect_interface"
-            android:screenOrientation="portrait" >
+            android:label="@string/connect_interface" >
             <intent-filter>
                 <action android:name="com.dingjun.demo.connect_interface" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.example.Activity.GestureDetectorActivity"
-            android:screenOrientation="portrait" >
+        <activity android:name="com.example.Activity.GestureDetectorActivity" >
             <intent-filter>
                 <action android:name="com.dingjun.demo.gesture_detector" />
 
@@ -172,17 +164,14 @@
         </activity>
         <activity
             android:name="com.example.Activity.NotificationActivity"
-            android:label="@string/system_notification_label"
-            android:screenOrientation="portrait" >
+            android:label="@string/system_notification_label" >
             <intent-filter>
                 <action android:name="com.dingjun.demo.Notification" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.example.Activity.BatteryActivity"
-            android:screenOrientation="portrait" >
+        <activity android:name="com.example.Activity.BatteryActivity" >
             <intent-filter>
                 <action android:name="com.dingjun.demo.Battery" />
 
@@ -210,11 +199,16 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.example.Activity.ChangeFontActivity"
-            android:screenOrientation="portrait" >
+        <activity android:name="com.example.Activity.ChangeFontActivity" >
             <intent-filter>
                 <action android:name="com.dingjun.demo.ChangeFonts" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.Activity.ButtonActivity" >
+            <intent-filter>
+                <action android:name="com.dingjun.demo.ButtonActivity" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
@@ -235,16 +229,6 @@
                 <action android:name="com.example.action.RebootService" />
             </intent-filter>
         </service>
-        <!--
-        <activity android:name="com.example.Activity.DemoLauncher"
-                  android:priority="-1000">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.HOME" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        -->
     </application>
 
 </manifest>

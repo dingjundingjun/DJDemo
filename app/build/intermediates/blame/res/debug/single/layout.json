@@ -56,6 +56,10 @@
         "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_grid.xml"
     },
     {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/ui_button_layout.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/ui_button_layout.xml"
+    },
+    {
         "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/title_scroll_layout.xml",
         "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/title_scroll_layout.xml"
     },

@@ -35,12 +35,14 @@
 	    <item>@string/flash_control</item>
 		<item>@string/change_fonts</item>
 		<item>@string/change_theme</item>
+		<item>@string/ui_list_button_demo</item>
 	</string-array>
 	
 	<string-array name="actions_ui">
 	    <item>com.dingjun.demo.TitleScrool</item>
 	    <item>com.dingjun.demo.ListDemoActivity</item>
 	    <item>com.dingjun.demo.ReflashListViewActivity</item>
+		<item>com.dingjun.demo.ButtonActivity</item>
 	</string-array>
 	
 	<string-array name="actions_demo">
@@ -52,6 +54,7 @@
 	    <item>@string/ui_title_scrool_label</item>
 	    <item>@string/ui_list_animation_list</item>
 	    <item>@string/ui_list_reflash</item>
+		<item>@string/ui_list_button_demo</item>
 	</string-array>
 	
 	<string-array name="actions_demo_text">

@@ -19,6 +19,8 @@ public final class R {
         public static final int power_off3=0x7f040007;
         public static final int power_off4=0x7f040008;
         public static final int power_off5=0x7f040009;
+        public static final int zoom_button_down=0x7f04000a;
+        public static final int zoom_button_up=0x7f04000b;
     }
     public static final class array {
         public static final int actions_demo=0x7f080000;
@@ -261,11 +263,11 @@ containing a value of this type.
         public static final int word_test_bg=0x7f02008d;
     }
     public static final class id {
-        public static final int action_settings=0x7f0d007c;
+        public static final int action_settings=0x7f0d007d;
         public static final int arrow=0x7f0d0055;
         public static final int auto_list=0x7f0d0056;
         public static final int background_blur=0x7f0d0044;
-        public static final int banner=0x7f0d0075;
+        public static final int banner=0x7f0d0076;
         public static final int battery=0x7f0d002a;
         public static final int battery_info=0x7f0d0029;
         public static final int bbk_logo=0x7f0d0050;
@@ -300,7 +302,7 @@ containing a value of this type.
         public static final int frame_back_view=0x7f0d0045;
         public static final int grow=0x7f0d0006;
         public static final int helix=0x7f0d0007;
-        public static final int icon=0x7f0d0073;
+        public static final int icon=0x7f0d0074;
         public static final int icon_list=0x7f0d0020;
         public static final int input_password=0x7f0d0031;
         public static final int interface_weather=0x7f0d002d;
@@ -311,25 +313,25 @@ containing a value of this type.
         public static final int list_dialog=0x7f0d0063;
         public static final int loadFull=0x7f0d0035;
         public static final int loading=0x7f0d0038;
-        public static final int main=0x7f0d0072;
+        public static final int main=0x7f0d0073;
         public static final int main_layout=0x7f0d000f;
         public static final int main_view=0x7f0d0010;
-        public static final int message=0x7f0d0074;
+        public static final int message=0x7f0d0075;
         public static final int more=0x7f0d0037;
-        public static final int mount_button=0x7f0d0076;
+        public static final int mount_button=0x7f0d0077;
         public static final int mult_btn_dialog=0x7f0d0062;
         public static final int mult_choose_dialog=0x7f0d0065;
         public static final int noData=0x7f0d0036;
         public static final int normal_dialog=0x7f0d005f;
         public static final int num_length=0x7f0d0025;
         public static final int ok=0x7f0d0032;
-        public static final int only_charge_button=0x7f0d007a;
-        public static final int only_charge_layout=0x7f0d0079;
-        public static final int only_charge_tip=0x7f0d007b;
+        public static final int only_charge_button=0x7f0d007b;
+        public static final int only_charge_layout=0x7f0d007a;
+        public static final int only_charge_tip=0x7f0d007c;
         public static final int open_flash_light=0x7f0d002e;
         public static final int ota_send_broadcast=0x7f0d0040;
         public static final int power_off_text=0x7f0d0048;
-        public static final int progress=0x7f0d0078;
+        public static final int progress=0x7f0d0079;
         public static final int progress_dialog=0x7f0d0066;
         public static final int reboot_btn=0x7f0d0059;
         public static final int reboot_text=0x7f0d004a;
@@ -372,7 +374,7 @@ containing a value of this type.
         public static final int top_view=0x7f0d004b;
         public static final int twirl=0x7f0d000c;
         public static final int two_normal_dialog=0x7f0d0060;
-        public static final int unmount_button=0x7f0d0077;
+        public static final int unmount_button=0x7f0d0078;
         public static final int update_font=0x7f0d0019;
         public static final int update_keyguard_wallpaper=0x7f0d0015;
         public static final int update_launcher_icon=0x7f0d001b;
@@ -386,6 +388,7 @@ containing a value of this type.
         public static final int webview=0x7f0d0042;
         public static final int zhangku_test=0x7f0d001e;
         public static final int zipper=0x7f0d000e;
+        public static final int zoom_button=0x7f0d0072;
     }
     public static final class integer {
         public static final int cell_count_x=0x7f070000;
@@ -425,7 +428,8 @@ containing a value of this type.
         public static final int theme_test_layout=0x7f03001a;
         public static final int title_scroll_layout=0x7f03001b;
         public static final int title_scrool_activity_layout=0x7f03001c;
-        public static final int usb_storage_activity=0x7f03001d;
+        public static final int ui_button_layout=0x7f03001d;
+        public static final int usb_storage_activity=0x7f03001e;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;
@@ -475,14 +479,15 @@ containing a value of this type.
         public static final int system_status_bar=0x7f0a0029;
         public static final int test_camera_label=0x7f0a002a;
         public static final int ui_list_animation_list=0x7f0a002b;
-        public static final int ui_list_reflash=0x7f0a002c;
-        public static final int ui_title_scrool_label=0x7f0a002d;
-        public static final int update_notification=0x7f0a002e;
-        public static final int usb_label=0x7f0a002f;
-        public static final int usb_storage_button_mount=0x7f0a0030;
-        public static final int usb_storage_message=0x7f0a0031;
-        public static final int usb_storage_stop_button_mount=0x7f0a0032;
-        public static final int usb_storage_title=0x7f0a0033;
+        public static final int ui_list_button_demo=0x7f0a002c;
+        public static final int ui_list_reflash=0x7f0a002d;
+        public static final int ui_title_scrool_label=0x7f0a002e;
+        public static final int update_notification=0x7f0a002f;
+        public static final int usb_label=0x7f0a0030;
+        public static final int usb_storage_button_mount=0x7f0a0031;
+        public static final int usb_storage_message=0x7f0a0032;
+        public static final int usb_storage_stop_button_mount=0x7f0a0033;
+        public static final int usb_storage_title=0x7f0a0034;
     }
     public static final class style {
         public static final int AlertDialogCustom=0x7f0b0000;
