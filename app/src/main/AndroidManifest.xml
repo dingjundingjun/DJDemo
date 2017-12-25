@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bbk.example.demo"
+    android:versionCode="1"
+    android:versionName="1.0"
+    >
+    <!-- android:sharedUserId="android.uid.system"-->
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="21" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  	<uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+  	<uses-permission android:name="android.permission.RECORD_AUDIO" /> 
+	<uses-permission android:name="android.permission.VIBRATE" />
+	<uses-permission android:name="android.permission.CAMERA" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name = "android.permission.CAMERA" /> 
+	<uses-feature android:name = "android.hardware.camera" /> 
+	<uses-feature android:name = "android.hardware.camera.autofocus" />
+  	<uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
+  	<uses-permission android:name="android.permission.WAKE_LOCK" />
+  	<uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+  	<uses-permission android:name="android.permission.RECEIVE_USER_PRESENT"></uses-permission>
+  	<uses-permission android:name="android.permission.INTERNET" />
+  	<uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:name="com.example.Activity.MyApplication"
+        android:excludeFromRecents="true"
+        android:supportsRtl="true"
+        android:theme="@style/acdialog"
+        android:hardwareAccelerated="false"
+        android:label="@string/app_name"
+       >
+        <meta-data android:name="BaiduMobAd_APP_ID" android:value="1004614b" /> 
+		<meta-data android:name="BaiduMobAd_APP_SEC" android:value="1004614b" />
+		<meta-data android:name="com.thinkland.juheapi.openid" android:value="JH082bae71a77eb669575d29e958f500fd" />
+		<!--  <meta-data android:name="parent_control" android:value="unlock"/>-->
+        <activity
+            android:name="com.example.Activity.MainActivity"
+            android:configChanges="keyboardHidden|screenSize|orientation"
+            android:screenOrientation="sensorLandscape"
+             >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.example.Activity.OtaPushTestActivity"
+            android:excludeFromRecents="true"
+            android:screenOrientation="landscape"
+            android:label="@string/system_dialog_label" >
+            <intent-filter>
+                <action android:name="com.dingjun.demo.OtaPushTest"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.example.Activity.SystemDialogActivity"
+			android:configChanges="orientation|keyboardHidden"
+            android:label="@string/system_dialog_label" >
+            <intent-filter>
+                <action android:name="com.dingjun.demo.SystemDialog"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.example.Activity.TestCameraActivity"
+            android:excludeFromRecents="true"
+            android:label="@string/test_camera_label" >
+            <intent-filter>
+                <action android:name="com.dingjun.demo.TestCamera"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.example.Activity.UsbActivity"
+            >
+            <intent-filter>
+                <action android:name="com.dingjun.demo.UsbActivity"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.media.action.IMAGE_CAPTURE"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.example.Activity.CameraOpenStopPreviewTest"
+            android:label="@string/camera_open_stop_preview">
+            <intent-filter>
+                <action android:name="com.dingjun.demo.CameraOpenStopPreviewTest"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.example.Activity.TitleScroolActivity"
+            android:label="@string/ui_title_scrool_label">
+            <intent-filter>
+                <action android:name="com.dingjun.demo.TitleScrool"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity 
+            android:name="com.example.Activity.FlashToggleActivity"
+            >
+            <intent-filter>
+                <action android:name="com.dingjun.demo.FlashControl"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.example.Activity.ListDemoActivity"
+            android:label="@string/ui_title_scrool_label">
+            <intent-filter>
+                <action android:name="com.dingjun.demo.ListDemoActivity"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.Activity.ReflashListViewActivity"
+            android:label="@string/ui_title_scrool_label"
+            >
+            <intent-filter>
+                <action android:name="com.dingjun.demo.ReflashListViewActivity"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.example.Activity.ConnectInterfaceActivity"
+            android:label="@string/connect_interface"
+            >
+            <intent-filter>
+                <action android:name="com.dingjun.demo.connect_interface"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.Activity.GestureDetectorActivity"
+            >
+            <intent-filter>
+        		<action android:name="com.dingjun.demo.gesture_detector"/>
+                <category android:name="android.intent.category.DEFAULT" />
+                </intent-filter>
+        </activity>
+         <activity
+            android:name="com.example.Activity.NotificationActivity"
+            android:label="@string/system_notification_label"
+            >
+            <intent-filter>
+                <action android:name="com.dingjun.demo.Notification"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.Activity.BatteryActivity"
+            >
+            <intent-filter>
+                <action android:name="com.dingjun.demo.Battery"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.example.Activity.StatusBarActivity"
+            >
+        		<intent-filter>
+                	<action android:name="com.dingjun.demo.StatusBar"/>
+                	<category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+          </activity>
+        <activity
+            android:name="com.example.Activity.ListViewActivity"
+            />
+        <activity
+            android:name="com.example.Activity.GridViewActivity"
+            />
+        <activity
+            android:name="com.example.Activity.PowerOffActivity"
+            android:theme="@style/powerofftransparentDialog"
+            />
+        <activity
+            android:name="com.example.Activity.ThemeActivity"
+            android:icon="@drawable/icon"
+            >
+            <intent-filter>
+                <action android:name="com.dingjun.demo.ThemeActivity"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.Activity.ChangeFontActivity"
+            >
+            <intent-filter>
+                <action android:name="com.dingjun.demo.ChangeFonts"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <receiver
+            android:name="com.example.receiver.FlashReceiver"
+            android:process=":remote"
+            >
+        	<intent-filter>
+        		<action android:name="com.eebbk.flash.control"/>
+        	</intent-filter>
+        </receiver>
+        
+        <service 
+            android:name="com.example.services.RebootService"
+            android:process=":rebootservice"
+            >
+            <intent-filter>
+        	<action android:name="com.example.action.RebootService"/>
+        	</intent-filter>
+        </service>
+</application>
+
+</manifest>

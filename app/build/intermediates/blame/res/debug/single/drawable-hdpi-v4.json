@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/word_test_bg.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-hdpi/word_test_bg.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volumn_seek_bar_p.9.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-hdpi/volumn_seek_bar_p.9.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volumn_seek_item.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-hdpi/volumn_seek_item.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/volumn_seek_bar_gb.9.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-hdpi/volumn_seek_bar_gb.9.png"
+    }
+]

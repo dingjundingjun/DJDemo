@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/power_off2.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/power_off2.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/power_off3.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/power_off3.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/dialog_enter.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/dialog_enter.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/activity_enter.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/activity_enter.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/power_off5.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/power_off5.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/power_off4.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/power_off4.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/power_off1.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/power_off1.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/dialog_exit.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/dialog_exit.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/power_off.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/power_off.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/anim/activity_exit.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/anim/activity_exit.xml"
+    }
+]

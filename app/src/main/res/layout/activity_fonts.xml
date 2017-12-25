@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="500dp"
+    android:layout_height="match_parent"
+    android:id="@+id/main_layout">
+    <!--
+    <Button
+        android:id="@+id/btn_change_font_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:text="点击切换字体1"/>
+    <Button
+        android:id="@+id/btn_change_font_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:text="点击切换字体2"
+        />
+    <Button
+        android:id="@+id/btn_change_font_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:text="点击切换字体3"
+        />
+    <Button
+        android:id="@+id/btn_change_font_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="点击切换字体4"
+        />
+    <Button
+        android:id="@+id/btn_change_font_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:text="点击切换字体5"
+        />
+        -->
+</FrameLayout>

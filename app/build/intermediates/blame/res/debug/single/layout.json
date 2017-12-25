@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/activity_themes.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_themes.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/forget_password_dialog.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/forget_password_dialog.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/theme_test_layout.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/theme_test_layout.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/pull_to_refresh_header.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/saml_keyguard_layout.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/saml_keyguard_layout.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/ota_push_test.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/ota_push_test.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/camera_preview_open_stop.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/camera_preview_open_stop.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/shutdown_dialog.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/shutdown_dialog.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/connect_interface_layout.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/connect_interface_layout.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/status_bar_main.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/status_bar_main.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/listview_footer.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/listview_footer.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/notification_layout.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/notification_layout.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/title_scrool_activity_layout.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/title_scrool_activity_layout.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/activity_grid.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_grid.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/title_scroll_layout.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/title_scroll_layout.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/activity_fonts.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_fonts.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/test_camera.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/test_camera.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/grid_item.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/grid_item.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/item.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/item.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/system_dialog.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/system_dialog.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/reflash_list_layout.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/reflash_list_layout.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/battery_activity.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/battery_activity.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/power_off_dialog_layout.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/power_off_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/power_off_dialog_layout1.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/power_off_dialog_layout1.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/demo_alertdialog.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/demo_alertdialog.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/flash_light_toggle_layout.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/flash_light_toggle_layout.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/activity_list.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_list.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/layout/main_word_test.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/layout/main_word_test.xml"
+    }
+]

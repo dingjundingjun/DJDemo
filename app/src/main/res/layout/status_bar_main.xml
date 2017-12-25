@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <Button 
+        android:id="@+id/status_bar_control_full"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="设置全屏，并且状态栏透明悬浮在应用界面之上"
+        />
+    <Button 
+        android:id="@+id/status_bar_control"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="设置不全屏"
+        />
+	<Button 
+        android:id="@+id/status_bar_color"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="设置颜色"
+        />
+</LinearLayout>

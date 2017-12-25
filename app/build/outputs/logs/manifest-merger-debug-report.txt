@@ -1,0 +1,413 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:2:1-255:12
+	package
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:9:9-35
+		INJECTED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:12:2-64
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:12:19-61
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:13:2-72
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:13:19-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:14:2-76
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:14:19-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:15:2-78
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:15:19-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:16:2-78
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:16:19-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:17:2-73
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:17:19-70
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:18:4-75
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:18:21-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:19:4-70
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:19:21-67
+uses-permission#android.permission.VIBRATE
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:20:2-63
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:20:19-60
+uses-permission#android.permission.CAMERA
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:21:2-62
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:21:19-59
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:22:2-76
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:22:19-73
+uses-feature#android.hardware.camera
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:24:2-59
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:24:16-56
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:25:2-69
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:25:16-66
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:26:4-92
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:26:21-89
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:27:4-67
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:27:21-64
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:28:4-83
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:28:21-80
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:29:4-94
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:29:21-75
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:31:4-73
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:31:21-71
+application
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:32:5-253:15
+	android:label
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:40:9-41
+	android:supportsRtl
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:37:9-35
+	android:excludeFromRecents
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:36:9-42
+	android:hardwareAccelerated
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:39:9-44
+	android:allowBackup
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:33:9-35
+	android:icon
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:34:9-45
+	android:theme
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:38:9-40
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:35:9-58
+meta-data#BaiduMobAd_APP_ID
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:42:9-80
+	android:value
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:42:53-77
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:42:20-52
+meta-data#BaiduMobAd_APP_SEC
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:43:3-75
+	android:value
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:43:48-72
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:43:14-47
+meta-data#com.thinkland.juheapi.openid
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:44:3-111
+	android:value
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:44:58-108
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:44:14-57
+activity#com.example.Activity.MainActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:46:9-55:20
+	android:screenOrientation
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:49:13-56
+	android:configChanges
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:48:13-74
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:47:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:51:13-54:29
+action#android.intent.action.MAIN
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:53:27-74
+activity#com.example.Activity.OtaPushTestActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:57:9-66:20
+	android:screenOrientation
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:60:13-50
+	android:label
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:61:13-56
+	android:excludeFromRecents
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:59:13-46
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:58:13-68
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.OtaPushTest
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:62:13-65:29
+action#com.dingjun.demo.OtaPushTest
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:63:17-70
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:63:25-68
+category#android.intent.category.DEFAULT
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:64:17-76
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:64:27-73
+activity#com.example.Activity.SystemDialogActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:68:9-76:20
+	android:label
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:71:13-56
+	android:configChanges
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:70:4-54
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:69:13-69
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.SystemDialog
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:72:13-75:29
+action#com.dingjun.demo.SystemDialog
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:73:17-71
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:73:25-69
+activity#com.example.Activity.TestCameraActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:78:9-87:20
+	android:screenOrientation
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:80:13-49
+	android:label
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:82:13-54
+	android:excludeFromRecents
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:81:13-46
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:79:13-67
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.TestCamera
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:83:13-86:29
+action#com.dingjun.demo.TestCamera
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:84:17-69
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:84:25-67
+activity#com.example.Activity.UsbActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:89:9-100:20
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:90:13-60
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.UsbActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:92:13-95:29
+action#com.dingjun.demo.UsbActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:93:17-70
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:93:25-68
+intent-filter#android.intent.category.DEFAULT+android.media.action.IMAGE_CAPTURE
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:96:13-99:29
+action#android.media.action.IMAGE_CAPTURE
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:97:17-76
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:97:25-74
+activity#com.example.Activity.CameraOpenStopPreviewTest
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:102:9-110:20
+	android:screenOrientation
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:104:13-49
+	android:label
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:105:13-61
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:103:13-74
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.CameraOpenStopPreviewTest
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:106:13-109:29
+action#com.dingjun.demo.CameraOpenStopPreviewTest
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:107:17-84
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:107:25-82
+activity#com.example.Activity.TitleScroolActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:112:9-120:20
+	android:screenOrientation
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:115:13-58
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:113:13-68
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.TitleScrool
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:116:13-119:29
+action#com.dingjun.demo.TitleScrool
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:117:17-70
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:117:25-68
+activity#com.example.Activity.FlashToggleActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:122:9-129:20
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:123:13-68
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.FlashControl
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:125:13-128:29
+action#com.dingjun.demo.FlashControl
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:126:17-71
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:126:25-69
+activity#com.example.Activity.ListDemoActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:131:9-139:20
+	android:screenOrientation
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:133:13-49
+	android:label
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:134:13-58
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:132:13-65
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.ListDemoActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:135:13-138:29
+action#com.dingjun.demo.ListDemoActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:136:17-75
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:136:25-73
+activity#com.example.Activity.ReflashListViewActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:140:9-149:20
+	android:screenOrientation
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:142:13-49
+	android:label
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:143:13-58
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:141:13-72
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.ReflashListViewActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:145:13-148:29
+action#com.dingjun.demo.ReflashListViewActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:146:17-82
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:146:25-80
+activity#com.example.Activity.ConnectInterfaceActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:151:9-160:20
+	android:screenOrientation
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:153:13-49
+	android:label
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:154:13-54
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:152:13-73
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.connect_interface
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:156:13-159:29
+action#com.dingjun.demo.connect_interface
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:157:17-76
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:157:25-74
+activity#com.example.Activity.GestureDetectorActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:161:9-169:20
+	android:screenOrientation
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:163:13-49
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:162:13-72
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.gesture_detector
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:165:13-168:33
+action#com.dingjun.demo.gesture_detector
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:166:11-69
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:166:19-67
+activity#com.example.Activity.NotificationActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:170:10-179:20
+	android:screenOrientation
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:172:13-49
+	android:label
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:173:13-62
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:171:13-69
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.Notification
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:175:13-178:29
+action#com.dingjun.demo.Notification
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:176:17-71
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:176:25-69
+activity#com.example.Activity.BatteryActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:180:9-188:20
+	android:screenOrientation
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:182:13-49
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:181:13-64
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.Battery
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:184:13-187:29
+action#com.dingjun.demo.Battery
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:185:17-66
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:185:25-64
+activity#com.example.Activity.StatusBarActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:190:9-197:22
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:191:13-66
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.StatusBar
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:193:11-196:29
+action#com.dingjun.demo.StatusBar
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:194:18-69
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:194:26-67
+activity#com.example.Activity.ListViewActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:198:9-200:15
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:199:13-65
+activity#com.example.Activity.GridViewActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:201:9-203:15
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:202:13-65
+activity#com.example.Activity.PowerOffActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:204:9-207:15
+	android:theme
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:206:13-61
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:205:13-65
+activity#com.example.Activity.ThemeActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:208:9-216:20
+	android:icon
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:210:13-42
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:209:13-62
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.ThemeActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:212:13-215:29
+action#com.dingjun.demo.ThemeActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:213:17-72
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:213:25-70
+activity#com.example.Activity.ChangeFontActivity
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:217:9-225:20
+	android:screenOrientation
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:219:13-49
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:218:13-67
+intent-filter#android.intent.category.DEFAULT+com.dingjun.demo.ChangeFonts
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:221:13-224:29
+action#com.dingjun.demo.ChangeFonts
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:222:17-70
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:222:25-68
+receiver#com.example.receiver.FlashReceiver
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:226:9-233:20
+	android:process
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:228:13-38
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:227:13-62
+intent-filter#com.eebbk.flash.control
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:230:10-232:26
+action#com.eebbk.flash.control
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:231:11-59
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:231:19-57
+service#com.example.services.RebootService
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:235:9-242:19
+	android:process
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:237:13-45
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:236:13-62
+intent-filter#com.example.action.RebootService
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:239:13-241:26
+action#com.example.action.RebootService
+ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:240:10-67
+	android:name
+		ADDED from /home/dingjun/AndroidStudioProjects/Demo/app/src/main/AndroidManifest.xml:240:18-65

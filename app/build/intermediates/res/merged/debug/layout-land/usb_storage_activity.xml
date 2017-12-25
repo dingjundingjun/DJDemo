@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:background="#151a1d"
+	android:paddingTop="@dimen/usb_activity_paddingtop"
+    >
+
+    <ImageView android:id="@+id/icon"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/usb_android" />
+
+	<TextView android:id="@+id/message"
+        android:layout_below="@id/icon"
+		android:layout_marginTop="@dimen/usb_activity_message_margintop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:text="@string/usb_storage_message" />
+															
+
+    <TextView android:id="@+id/banner"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/message"
+		android:layout_marginTop="@dimen/usb_activity_banner_margintop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:text="@string/usb_storage_title" />
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+        android:layout_below="@id/banner"
+		android:layout_marginTop="@dimen/usb_activity_mountlayout_margintop"
+		>
+		 <RelativeLayout
+				 android:layout_width="0dp"
+				 android:layout_weight="1.0"
+				 android:layout_height="wrap_content">
+
+		    <Button android:id="@+id/mount_button" 
+				    android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+					android:layout_centerInParent="true"
+					android:background="@drawable/mount_button_style"
+			    />
+	        <Button android:id="@+id/unmount_button"
+			        android:visibility="gone"
+				    android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+					android:layout_centerInParent="true"
+					android:background="@drawable/unmount_button_style"
+			    />
+	        <ProgressBar android:id="@+id/progress"
+					android:visibility="gone"
+				    android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+			        android:indeterminate="true"
+					android:layout_centerInParent="true"
+				    style="?android:attr/progressBarStyle"
+			    />
+
+	    </RelativeLayout>
+	
+		<RelativeLayout
+                android:id="@+id/only_charge_layout"
+		        android:layout_width="0dp"
+			    android:layout_weight="1.0"
+				android:layout_height="wrap_content" >
+			<Button android:id="@+id/only_charge_button"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_centerInParent="true"
+			    />
+	</RelativeLayout>
+	</LinearLayout>
+	 <TextView 
+           android:id="@+id/only_charge_tip"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="USB链接电脑仅供电，不充电"
+           android:layout_marginTop="630dip"
+           android:layout_marginLeft="770dip"
+           android:textSize="24sp"/>
+	
+</RelativeLayout>

@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_56.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_56.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_6.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_6.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_48.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_48.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_20.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_20.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_11.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_11.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_chargeing_dark.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_chargeing_dark.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_17.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_17.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_25.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_25.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_57.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_57.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_normal_low_dark.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_normal_low_dark.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_18.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_18.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_12.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_12.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_7.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_7.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_1.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_1.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_34.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_34.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_26.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_26.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_frame_error_light.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_frame_error_light.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_42.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_42.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_50.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_50.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_dialog_drag_btn_normal.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_dialog_drag_btn_normal.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_dialog_cancel_normal.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_dialog_cancel_normal.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/test_icon.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/test_icon.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_52.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_52.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_41.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_41.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_frame_normal_low_light.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_frame_normal_low_light.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_30.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_30.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_normal_charge_full.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_normal_charge_full.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_36.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_36.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_33.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_33.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_39.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_39.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_28.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_28.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_dialog_cancel_press.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_dialog_cancel_press.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_44.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_44.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_error_dark.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_error_dark.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_9.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_9.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_47.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_47.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_55.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_55.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_58.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_58.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_45.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_45.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_31.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_31.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/studyos_icon_land.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/studyos_icon_land.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_14.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_14.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_3.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_3.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_22.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_22.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_54.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_54.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_15.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_15.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_chargeing_light.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_chargeing_light.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_normal_low_light.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_normal_low_light.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_23.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_23.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_37.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_37.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_53.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_53.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_29.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_29.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_4.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_4.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_frame_normal.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_frame_normal.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_24.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_24.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_27.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_27.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_10.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_10.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_5.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_5.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_frame_normal_dark.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_frame_normal_dark.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_dialog_drag_background.9.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_dialog_drag_background.9.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_16.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_16.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_2.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_2.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_19.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_19.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_frame_normal_low_dark.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_frame_normal_low_dark.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_35.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_35.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_49.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_49.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_38.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_38.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/divider.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/divider.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/test_prtext_1.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/test_prtext_1.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_error_light.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_error_light.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_46.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_46.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_frame_error_dark.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_frame_error_dark.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_8.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_8.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_normal_charge_full_dark.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_normal_charge_full_dark.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_51.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_51.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_43.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_43.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_40.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_40.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/test_pic.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/test_pic.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/studyos_icon.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/studyos_icon.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_32.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_32.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_dialog_drag_btn_press.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_dialog_drag_btn_press.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_frame_chargeing_dark.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_frame_chargeing_dark.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/test_protext.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/test_protext.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_13.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_13.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/power_off_21.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/power_off_21.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/battery_frame_chargeing_light.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xxhdpi/battery_frame_chargeing_light.png"
+    }
+]

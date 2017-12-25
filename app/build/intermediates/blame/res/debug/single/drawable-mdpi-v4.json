@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/loading_1.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/loading_1.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/loading_2.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/loading_2.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/loading_5.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/loading_5.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/alertdialog_title_divider.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/alertdialog_title_divider.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/loading_0.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/loading_0.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/loading_3.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/loading_3.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/pull_to_refresh_arrow.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/pull_to_refresh_arrow.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/explain_title.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/explain_title.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/loading_6.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/loading_6.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/test_pic.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/test_pic.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/alert_dialog_gb.9.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/alert_dialog_gb.9.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/loading_7.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/loading_7.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/loading_4.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-mdpi/loading_4.png"
+    }
+]

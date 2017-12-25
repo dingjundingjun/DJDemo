@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string-array name="test_intents">
+	    <item>#Intent;component=com.eebbk.timepickview.demo/.TimePickViewActivity;end</item>
+	    <item>#Intent;component=com.eebbk.timepickview.demo/.DatePickViewActivity;end</item>
+	    <item>#Intent;component=com.eebbk.timepickview.demo/.TimePickDlgActivity;end</item>
+	    <item>#Intent;component=com.eebbk.timepickview.demo/.ScrollTimePickerActivity;end</item>
+	    <item>#Intent;component=com.eebbk.timepickview.demo/.ScrollTimePickerDlgActivity;end</item>
+	</string-array>
+	
+	<string-array name="actions_system">
+	    <item>com.dingjun.demo.OtaPushTest</item>
+	    <item>com.dingjun.demo.SystemDialog</item>
+	    <item>com.dingjun.demo.TestCamera</item>
+	    <item>com.dingjun.demo.CameraOpenStopPreviewTest</item>
+	    <item>com.dingjun.demo.UsbActivity</item>
+	    <item>com.dingjun.demo.Notification</item>
+	    <item>com.dingjun.demo.StatusBar</item>
+	    <item>com.dingjun.demo.Battery</item>
+	    <item>com.dingjun.demo.FlashControl</item>
+		<item>com.dingjun.demo.ChangeFonts</item>
+		<item>com.dingjun.demo.ThemeActivity</item>
+	</string-array>
+	
+	<string-array name="actions_system_text">
+	    <item>@string/ota_push_test_label</item>
+	    <item>@string/system_dialog_label</item>
+	    <item>@string/test_camera_label</item>
+	    <item>@string/camera_open_stop_preview</item>
+	    <item>@string/usb_label</item>
+	    <item>@string/system_notification_label</item>
+	    <item>@string/system_status_bar</item>
+	    <item>@string/battery_test</item>
+	    <item>@string/flash_control</item>
+		<item>@string/change_fonts</item>
+		<item>@string/change_theme</item>
+	</string-array>
+	
+	<string-array name="actions_ui">
+	    <item>com.dingjun.demo.TitleScrool</item>
+	    <item>com.dingjun.demo.ListDemoActivity</item>
+	    <item>com.dingjun.demo.ReflashListViewActivity</item>
+	</string-array>
+	
+	<string-array name="actions_demo">
+	    <item>com.dingjun.demo.connect_interface</item>
+	    <item>com.dingjun.demo.gesture_detector</item>
+	</string-array>
+	
+	<string-array name="actions_ui_text">
+	    <item>@string/ui_title_scrool_label</item>
+	    <item>@string/ui_list_animation_list</item>
+	    <item>@string/ui_list_reflash</item>
+	</string-array>
+	
+	<string-array name="actions_demo_text">
+	    <item>@string/connect_interface</item>
+	    <item>@string/gesture_detector</item>
+	</string-array>
+	
+	<string-array name="parent_text">
+	    <item>@string/parent_text_system</item>
+	    <item>@string/parent_text_ui</item>
+	    <item>@string/parent_text_demo</item>
+	</string-array>
+	
+	<declare-styleable name="JazzyListView" >
+        <attr name="effect" format="enum" >
+            <enum name="standard" value="0" />
+            <enum name="grow" value="1" />
+            <enum name="cards" value="2" />
+	        <enum name="curl" value="3" />
+	        <enum name="wave" value="4" />
+	        <enum name="flip" value="5" />
+	        <enum name="fly" value="6" />
+	        <enum name="reverse_fly" value="7" />
+	        <enum name="helix" value="8" />
+	        <enum name="fan" value="9" />
+	        <enum name="tilt" value="10" />
+	        <enum name="zipper" value="11" />
+	        <enum name="fade" value="12" />
+	        <enum name="twirl" value="13" />
+	        <enum name="slide_in" value="14" />
+        </attr>
+        
+        <attr name="only_animate_new_items" format="boolean" />
+        <attr name="only_animate_fling" format="boolean" />
+        <attr name="simulate_grid_with_list" format="boolean" />
+        <attr name="max_velocity" format="integer" />
+    </declare-styleable>
+</resources>

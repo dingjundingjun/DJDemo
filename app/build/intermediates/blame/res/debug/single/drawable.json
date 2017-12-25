@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/seekbar.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/seekbar.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/test_protext.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/test_protext.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/unmount_button_style.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/unmount_button_style.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/mydevider.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/mydevider.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/shut_down.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/shut_down.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/reboot.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/reboot.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/mount_button_style.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/mount_button_style.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/custom_progress_bar.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/custom_progress_bar.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/power_dialog_cancel_btn.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/power_dialog_cancel_btn.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/charge_button_style.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/charge_button_style.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/test_color.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/test_color.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/seek_drawable.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/seek_drawable.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/power_dialog_drag_btn.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/power_dialog_drag_btn.xml"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable/seek_thumb.xml",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable/seek_thumb.xml"
+    }
+]

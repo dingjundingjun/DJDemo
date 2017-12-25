@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/alertdialog_devider.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/alertdialog_devider.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mount_button_normal.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/mount_button_normal.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/brightness_small.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/brightness_small.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/seekbar_thumb_normal.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/seekbar_thumb_normal.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/brightness_big.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/brightness_big.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/volumn_seek_item.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/volumn_seek_item.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/volumn_seek_bar_p.9.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/volumn_seek_bar_p.9.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/unmount_button_normal.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/unmount_button_normal.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shut_down_bg.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/shut_down_bg.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/test_pic.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/test_pic.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/seek_progress_bk.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/seek_progress_bk.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/charge_button_normal.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/charge_button_normal.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_mask_fg.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/icon_mask_fg.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/usb_android_connected.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/usb_android_connected.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_mask.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/icon_mask.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/charge_button_pressed.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/charge_button_pressed.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mount_button_pressed.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/mount_button_pressed.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/reboot_normal.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/reboot_normal.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/dialog_full_holo_light.9.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/dialog_full_holo_light.9.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/toast_bg.9.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/toast_bg.9.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_mask_bg.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/icon_mask_bg.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shut_down_normal.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/shut_down_normal.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/usb_android.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/usb_android.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/unmount_button_pressed.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/unmount_button_pressed.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/seekbar_thumb_pressed.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/volumn_seek_bar_gb.9.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/volumn_seek_bar_gb.9.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/reboot_pressed.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/reboot_pressed.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shut_down_pressed.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/shut_down_pressed.png"
+    },
+    {
+        "merged": "/home/dingjun/AndroidStudioProjects/Demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/seek_progress.png",
+        "source": "/home/dingjun/AndroidStudioProjects/Demo/app/src/main/res/drawable-xhdpi/seek_progress.png"
+    }
+]

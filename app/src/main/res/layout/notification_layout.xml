@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <Button
+        android:id="@+id/send_notification_normal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/send_notification"
+        />
+    
+    <Button 
+        android:id="@+id/cancle_notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cancle_notification"
+        />
+
+    <Button 
+        android:id="@+id/update_notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/update_notification"
+        />
+       <Button 
+       android:id="@+id/send_notification_ontime"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/send_notification_ontime"
+       />
+       <Button 
+       android:id="@+id/send_notification_unclearable"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/send_notification_unclear"
+       />
+       <Button 
+       android:id="@+id/send_notification_free_normal"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/send_notification_free_normal"
+       />
+       <Button 
+       android:id="@+id/send_notification_free_unclearable"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/send_notification_free_unclear"
+       />
+</LinearLayout>

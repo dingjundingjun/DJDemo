@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="421dip"
+    android:layout_height="305dip"
+    android:background="@drawable/shut_down_bg"
+    android:orientation="vertical" >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#585858"
+        android:textSize="27sp"
+        android:layout_marginTop="54dip"
+        android:text="开关机选项"
+        android:gravity="center"/>
+
+    <RelativeLayout 
+        android:layout_width="287dip"
+        android:layout_height="200dip"
+        android:layout_marginTop="27dip"
+        android:layout_marginLeft="67dip"
+        android:layout_marginRight="67dip"
+        >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_alignParentLeft="true"
+            android:gravity="center"
+            
+            >
+        <Button android:id="@+id/shutdown_btn" 
+            android:layout_width="107dip"
+            android:layout_height="107dip"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/shut_down"
+            />
+         <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textSize="32sp"
+          android:text="关机"
+          android:textColor="#585858"
+          android:layout_marginTop="20dip"
+          />
+        </LinearLayout>
+
+
+         <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"
+          android:layout_alignParentRight="true"
+          android:gravity="center"
+          >
+
+        <Button android:id="@+id/reboot_btn" 
+            android:layout_width="107dip"
+            android:layout_height="107dip"
+            android:background="@drawable/reboot"
+            />
+		
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="32sp"
+            android:text="重启"
+            android:textColor="#585858"
+            android:layout_marginTop="20dip"
+            />
+    </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

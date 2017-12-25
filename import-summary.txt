@@ -1,0 +1,54 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .externalToolBuilders/
+* .externalToolBuilders/New_Builder (4).launch
+* hs_err_pid25156.log
+* ic_launcher-web.png
+* proguard-project.txt
+* reboot.xml
+* shut_down.xml
+* shutdown_dialog.xml
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* jni/ => app/src/main/jni/
+* libs/BFC_AccountManager.jar => app/libs/BFC_AccountManager.jar
+* libs/BFC_Utils.jar => app/libs/BFC_Utils.jar
+* libs/android-support-v4.jar => app/libs/android-support-v4.jar
+* libs/armeabi-v7a/libJuheSDK_v_1_2.so => app/src/main/jniLibs/armeabi-v7a/libJuheSDK_v_1_2.so
+* libs/armeabi-v7a/libhello.so => app/src/main/jniLibs/armeabi-v7a/libhello.so
+* libs/armeabi/libJuheSDK_v_1_2.so => app/src/main/jniLibs/armeabi/libJuheSDK_v_1_2.so
+* libs/gdt_mob_release_v4.4.479.jar => app/libs/gdt_mob_release_v4.4.479.jar
+* libs/gson-2.2.2.jar => app/libs/gson-2.2.2.jar
+* libs/http_ime.jar => app/libs/http_ime.jar
+* libs/juhe_sdk_v_2_7.jar => app/libs/juhe_sdk_v_2_7.jar
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
